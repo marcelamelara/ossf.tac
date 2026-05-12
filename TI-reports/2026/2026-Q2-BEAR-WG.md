@@ -1,6 +1,6 @@
 # 2026 Q2 BEAR WG
 
-[Q1 2026 TAC report\]([https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q1-BEAR-WG.md](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q1-BEAR-WG.md))
+[Q1 2026 TAC report](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q1-BEAR-WG.md)
 
 ## Overview
 
@@ -8,19 +8,19 @@ The BEAR WG continues our mission to increase representation and strengthen the 
 
 Over the past quarter, we've made progress in these areas:
 
-* We hosted one Welcome Call \- BEAR WG on March 26\.  
-* Summer 2026 Mentorship Program has been the main focus of this quarter so far:  
-  * Received a total of 270+ applications for the 4 participating projects  
-  * Acceptances to 8 mentees were sent on May 1  
-* Preparing two presentations on the BEAR WG at OSS NA and OpenSSF Community Day keynote.  
-* Hosting a lunch meetup on Wednesday after our OSSNA talk.  
+* We hosted one Welcome Call - BEAR WG on March 26.
+* Summer 2026 Mentorship Program has been the main focus of this quarter so far:
+  * Received a total of 270+ applications for the 4 participating projects
+  * Acceptances to 8 mentees were sent on May 1
+* Preparing two presentations on the BEAR WG at OSS NA and OpenSSF Community Day keynote.
+* Hosting a lunch meetup on Wednesday after our OSSNA talk.
 * OSSAfrica represented the SIG’s work and OpenSSF at the AfricaCyberFest with a booth managed by Ejiro, Ijeoma, and Harmony, as well as Ejiro’s talk about the state of OSS in Africa.
 
 ## Welcome Calls
 
 ### Purpose
 
-Our Welcome Calls are a monthly event in which we highlight maintainers and/or contributors from OpenSSF Projects or working groups to talk about their initiative. The goal is to allow for information sharing for new members to understand the initiative, current efforts, where the TI needs help, and how to connect. Each month, we aim to host diverse TIs to help spread the awareness of OpenSSF WGs and Projects. 
+Our Welcome Calls are a monthly event in which we highlight maintainers and/or contributors from OpenSSF Projects or working groups to talk about their initiative. The goal is to allow for information sharing for new members to understand the initiative, current efforts, where the TI needs help, and how to connect. Each month, we aim to host diverse TIs to help spread the awareness of OpenSSF WGs and Projects.
 
 ### Current Status
 
@@ -28,7 +28,7 @@ We hosted a third Welcome Call in March featuring the BEAR WG. Since, we have un
 
 ### Up Next
 
-Find willing working groups to participate in the upcoming June and July Welcome Calls. For August, we are working with Sal and Ejiro to run the Mentorship Showcase as our welcome call. 
+Find willing working groups to participate in the upcoming June and July Welcome Calls. For August, we are working with Sal and Ejiro to run the Mentorship Showcase as our welcome call.
 
 ## OpenSSF Mentorship Program
 
@@ -38,18 +38,19 @@ Hands-on experience and contributions to OSS projects are a major advantage for 
 
 ### Current Status
 
-* Acceptances to 8 mentees were sent May 1:  
-  * gittuf: 2  
-  * RSTUF: 3  
-  * Minder: 1  
-  * SBOMit: 2  
+* Acceptances to 8 mentees were sent May 1:
+  * gittuf: 2
+  * RSTUF: 3
+  * Minder: 1
+  * SBOMit: 2
 * Mentees will be onboarding until June 1
 
 ### Up Next
 
-* Mentorship to run June 1-August 21 (12 weeks)  
-* Mentees will showcase their projects during the August Welcome Call (coordinated by Sal and Ejiro)  
-* Kate and Yesenia will follow up while Marcela is out June-August.  
+* Mentorship to run June 1-August 21 (12 weeks)
+* Ejiro Oghenekome and Sal Kimmich to step in as interim co-chairs July-August 2026.
+* Mentees will showcase their projects during the August Welcome Call (coordinated by Sal and Ejiro)
+* Kate and Yesenia will follow up while Marcela is out June-August.
 * Kate will support once Yesenia is out in August.
 
 ## Conference Participation
@@ -62,7 +63,7 @@ Members of the OpenSSF BEAR WG community present talks and panel discussions at 
 
 We had two talks accepted at OSS NA and OpenSSF Community Day:
 
-* OSS NA: BEAR-ing Fruit: How OpenSSF’s Working Group Is Diversifying Open Source Security  
+* OSS NA: BEAR-ing Fruit: How OpenSSF’s Working Group Is Diversifying Open Source Security
 * OpenSSF Community Day Keynote: BEAR-ing Fruit: A Year of Learning, Mentorship, and Community Building in Open Source Security
 
 In addition, we plan to host a BEAR Lunch Meetup on Wednesday during OSS NA.
@@ -81,44 +82,42 @@ The SIG is dedicated to fostering collaboration, education, and innovation in op
 
 In the remainder of Q1 2026 and throughout Q2, the SIG:
 
-* Ramp up social media engagement to increase awareness of OpenSSF technical and non-technical initiatives.  
-* Continue discussions around OpenSSF sponsorship and participation in [OSCAFEST](https://festival.oscafrica.org/) and/or [AfricaCyberFest](https://africacyberfest.com/) in 2026, including preparing CFP submissions for one or both conferences.  
-* Plan and host a variety of virtual and in-person events, with a focus on West Africa.  
-* Identify and connect with other open source communities across the African region.  
-* Attend and/or co-host events alongside other tech communities in Africa.  
-* Worked on some pre-sandbox projects and have some working prototypes  
+* Ramped up social media engagement to increase awareness of OpenSSF technical and non-technical initiatives.
+* Participated in [AfricaCyberFest](https://africacyberfest.com/) on May 2 in Lagos, Nigeria with a talk (Ejiro Oghenekome) and a booth (Ijeoma Onwuka and Harmony Elendu)
+* Hosted a webinar "Advancing Open Source Security in Africa: OpenSSF and OSSAfrica" on March 27 with panelists Abigail Mesrenyame Dogbe, Aaron Will Djaba, Marcela Melara and David Wheeler. Host: Prince Oforh Asiedu
+* Worked on some pre-sandbox projects and have some working prototypes
   * [Skillguard](https://github.com/ossafrica/skillguard): Security Scanner For AI Agent Skills
 
 ### Up Next
 
-* Work on the SIG website and making it stable  
-* Work on a ‘How to Contribute’ series (videos) as an extension of this [blog](https://openssf.org/blog/2025/09/22/from-beginner-to-builder-your-first-code-contribution/) to help new contributors
-* Skillguard  
-  * publish docker image on docker hub  
-  * publish the github action to the github marketplace  
-  * post it on our socials and market it  
-  * create npm package to enable easy install with Node package managers  
+* Work on the SIG website and making it stable
+* Work on a ‘How to Contribute’ series (videos) as an extension of the [From Beginner to Builder blog series](https://openssf.org/blog/2025/09/22/from-beginner-to-builder-your-first-code-contribution/) to help new contributors
+* Skillguard project
+  * publish docker image on docker hub
+  * publish the github action to the github marketplace
+  * post it on our socials and market it
+  * create npm package to enable easy install with Node package managers
 
 ## DevRel SIG
 
 ### Purpose
 
-* Demonstrate the value proposition of making developer's lives easier and reduce perceived workload of OpenSSF  
-* Increase community engagement with OpenSSF Technical Initiatives and Events.  
-  * Increase awareness and visibility of OpenSSF, its projects, tools, initiatives.  
-  * Increase non-member contributions / participation  
+* Demonstrate the value proposition of making developer's lives easier and reduce perceived workload of OpenSSF
+* Increase community engagement with OpenSSF Technical Initiatives and Events.
+  * Increase awareness and visibility of OpenSSF, its projects, tools, initiatives.
+  * Increase non-member contributions / participation
   * Increase adoption
 
 ### Current Status
 
-* Two DevRel community sessions accepted at Open Source Summit NA / cdCon (May 18–20, Minneapolis) — see Up Next for details  
+* Two DevRel community sessions accepted at Open Source Summit NA / cdCon (May 18–20, Minneapolis) — see Up Next for details
 * Work underway to build CFP support and speaker resources so Ambassadors and other community members can effectively represent OpenSSF technical initiatives at external events.
 
 ### Up Next
 
-* DevRel community meeting May 14 11:30am ET   
-* Two sessions from DevRel community members (Katherine Druckman (JetBrains), Stacey Potter (OpenSSF), Tabatha DiDomenico (G-Research), Kadi McKean (ReversingLabs)) at cdCon (May 18–20, Minneapolis), both Room 200C, Tuesday May 19:  
-  * Bring Your Lunch, We'll Bring Our Notebooks: Securing Software Workflows — 12:45pm CDT — Open-floor feedback session with project maintainers in the room — no slides, no pitches.   
+* DevRel community meeting May 14 11:30am ET
+* Two sessions from DevRel community members (Katherine Druckman (JetBrains), Stacey Potter (OpenSSF), Tabatha DiDomenico (G-Research), Kadi McKean (ReversingLabs)) at cdCon (May 18–20, Minneapolis), both Room 200C, Tuesday May 19:
+  * Bring Your Lunch, We'll Bring Our Notebooks: Securing Software Workflows — 12:45pm CDT — Open-floor feedback session with project maintainers in the room — no slides, no pitches.
   * Security Things: How OpenSSF's Technical Initiatives Keep You Safe From the Upside Down! — 2:10pm CDT — Real supply chain problems mapped to OpenSSF solutions, with lightning-round demos from Working Group Leads and Project Maintainers.
 
 ## Funding requests and updates
@@ -129,11 +128,11 @@ No new requests at this time.
 
 ## Questions/Issues for the TAC
 
-* Welcome Calls: We have been struggling to get responses from other WGs willing to host a Welcome Call. Would love the TAC’s help in promoting these as part of our more general community onboarding resources.  
-* OSSAfrica SIG would like to host software projects (TAC process for SIG-sponsored projects isn’t 100% clear) — should the SIG follow the regular Project Sandbox process?  
+* Welcome Calls: We have been struggling to get responses from other WGs willing to host a Welcome Call. Would love the TAC’s help in promoting these as part of our more general community onboarding resources.
+* OSSAfrica SIG would like to host software projects (TAC process for SIG-sponsored projects isn’t 100% clear) — should the SIG follow the regular Project Sandbox process?
 
 ## Additional Information
 
-* Reminder: Marcela is planning to go on 12-week parental leave on/about the first week of June.  
-* Reminder: Yesenia is planning to go on parental leave on/about the beginning of August. More details to follow.  
+* Reminder: Marcela is planning to go on 12-week parental leave on/about the first week of June.
+* Reminder: Yesenia is planning to go on parental leave on/about the beginning of August. More details to follow.
 * There will be about a 3 meeting gap between Yesenia leaving and Marcela returning. Our idea is to cancel the BEAR WG calls until Marcela returns with Ejiro Oghenekome and Sal Kimmich serving as interim co-chairs to support the August Mentorship Showcase.
