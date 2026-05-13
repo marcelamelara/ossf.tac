@@ -90,13 +90,7 @@ In the remainder of Q1 2026 and throughout Q2, the SIG:
 
 ### Up Next
 
-* Work on the SIG website and making it stable
-* Work on a ‘How to Contribute’ series (videos) as an extension of the [From Beginner to Builder blog series](https://openssf.org/blog/2025/09/22/from-beginner-to-builder-your-first-code-contribution/) to help new contributors
-* Skillguard project
-  * publish docker image on docker hub
-  * publish the github action to the github marketplace
-  * post it on our socials and market it
-  * create npm package to enable easy install with Node package managers
+EDIT 5/14 post-TAC meeting: After internal discussions among the SIG and BEAR WG leadership, and identifying irreconcilable differences, the OSSAfrica initiative has decided to break it's affiliation with OpenSSF towards establishing an independent organization. The BEAR WG does remain committed to supporting the growing OSS/cybersecurity community across Africa, so the WG is in the process of establishing a separate OpenSSF Africa SIG within the WG. The WG co-chairs wish the OSSAfrica group leads all the best in the next chapter of their initiative!
 
 ## DevRel SIG
 
